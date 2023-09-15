@@ -1,10 +1,13 @@
 # Introduction
-Welcome to my profile! My full name is Leika Anne P. Galvez, I am currently 20 years old, currently on the road to finish my Bachelor's degree on Computer Science at New Era University.
+Welcome to my profile! My full name is Leika Anne P. Galvez, I am currently 20 years old, currently on the road to finish my Bachelor's degree in Computer Science at New Era University.
 
 # Education
 BS Computer Science (2021 - Present)
 
 # Certifications
+### Business Analytics with Excel
+#### https://simpli-web.app.link/e/j4af4KTx6Cb
+#
 ### Oracle Cloud Data Management 2022 Foundations Associate (December 9, 2022)
 #### Badge Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=0AF86543B254D63A15DECB0C62AA63A8731AEC360E0EACC6D830EC6EAC802575&fbclid=IwAR1w8PQ5IpybsCwhuq6T_wNleDiIb05GSwbscs5jcVorS9rMQg41md2BUos
 #
